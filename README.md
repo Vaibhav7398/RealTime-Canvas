@@ -1,12 +1,4 @@
 # 🎨 RealTime Canvas  
-  
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)  
-![React](https://img.shields.io/badge/React-18-blue?logo=react)  
-![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)  
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?logo=mongodb)  
-![WebSockets](https://img.shields.io/badge/WebSockets-Socket.IO-lightgrey?logo=socket.io)  
-
----
 
 ## 📌 Overview  
 
@@ -27,7 +19,7 @@ With drawing tools, text inputs, image uploads, and live chat, teams and individ
 - 📤 **Export boards** as PNG / PDF  
 - 💬 **Built-in chat system** for communication  
 - 📱 **Responsive UI** (desktop, tablet, mobile)  
-- 🔗 **Future integrations** (Slack, Teams, Google Drive)  
+- 🔗 **Integrations** (Slack, Teams, Google Drive)  
 
 ---
 
