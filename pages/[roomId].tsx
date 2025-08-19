@@ -1,9 +1,10 @@
-import type { NextPage } from "next";
-
+import { NextPage } from "next";
 import Room from "@/modules/room/components/Room";
 
-const RoomPage: NextPage = () => {
-  return <Room />;
-};
+/**
+ * Page component for displaying the Room module.
+ */
+const RoomPage: NextPage = () => <Room />;
 
 export default RoomPage;
+
